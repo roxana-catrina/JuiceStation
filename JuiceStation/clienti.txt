@@ -1,0 +1,6 @@
+Alexandru alexandru.client@gmail.com parola1
+Denis denis.client@gmail.com parola2
+Victoria victoria.client@gmail.com parola3
+Bogdana bogdana.client@gmail.com parola4
+Roxana roxanaelena@gmail.com elena
+EndList

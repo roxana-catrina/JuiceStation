@@ -1,0 +1,11 @@
+Aspartam Denumire fruct: Mere Contine zahar: 0 Indulcitor: Aspartam Cantitate: 48 / 100
+Sucraloza Denumire fruct: Pere Contine zahar: 0 Indulcitor: Sucraloza Cantitate: 28 / 100
+Zaharina Denumire fruct: Arbuz Contine zahar: 0 Indulcitor: Zaharina Cantitate: 13 / 100
+Stevia Denumire fruct: Visine Contine zahar: 0 Indulcitor: Stevia Cantitate: 36 / 100
+Eritritol Denumire fruct: Capsuni Contine zahar: 0 Indulcitor: Eritritol Cantitate: 73 / 100
+Orange Denumire fruct: Portocale Contine zahar: 1 Cantitate de zahar: 0.22 Cantitate: 10 / 100
+Cola Denumire fruct: Lamaie Contine zahar: 1 Cantitate de zahar: 0.66 Cantitate: 86 / 100
+Fanta Denumire fruct: Portocale Contine zahar: 1 Cantitate de zahar: 0.64 Cantitate: 23 / 100
+Pepsi Denumire fruct: Lamaie Contine zahar: 1 Cantitate de zahar: 0.6 Cantitate: 16 / 100
+Aloe Denumire fruct: Aloe Contine zahar: 1 Cantitate de zahar: 0.1 Cantitate: 40 / 100
+EndList

@@ -1,0 +1,11 @@
+Aspartam Fruct provenienta: Mere Contine zahar: 0 Indulcitor: Aspartam Cantitate: 4
+Sucraloza Fruct provenienta: Pere Contine zahar: 0 Indulcitor: Sucraloza Cantitate: 2
+Zaharina Fruct provenienta: Arbuz Contine zahar: 0 Indulcitor: Zaharina Cantitate: 1
+Stevia Fruct provenienta: Visine Contine zahar: 0 Indulcitor: Stevia Cantitate: 3
+Eritritol Fruct provenienta: Capsuni Contine zahar: 0 Indulcitor: Eritritol Cantitate: 7
+Orange Fruct provenienta: Portocale Contine zahar: 1 Cantitate de zahar: 0.22 Cantitate: 1
+Cola Fruct provenienta: Lamaie Contine zahar: 1 Cantitate de zahar: 0.66 Cantitate: 7
+Fanta Fruct provenienta: Portocale Contine zahar: 1 Cantitate de zahar: 0.64 Cantitate: 2
+Pepsi Fruct provenienta: Lamaie Contine zahar: 1 Cantitate de zahar: 0.6 Cantitate: 1
+Aloe Fruct provenienta: Aloe Contine zahar: 1 Cantitate de zahar: 0.1 Cantitate: 4
+EndList
